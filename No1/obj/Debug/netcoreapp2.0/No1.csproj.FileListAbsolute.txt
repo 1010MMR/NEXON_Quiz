@@ -1,0 +1,10 @@
+/Users/yonghyeonlee/Documents/CSharp/No1/bin/Debug/netcoreapp2.0/No1.deps.json
+/Users/yonghyeonlee/Documents/CSharp/No1/bin/Debug/netcoreapp2.0/No1.runtimeconfig.json
+/Users/yonghyeonlee/Documents/CSharp/No1/bin/Debug/netcoreapp2.0/No1.runtimeconfig.dev.json
+/Users/yonghyeonlee/Documents/CSharp/No1/bin/Debug/netcoreapp2.0/No1.dll
+/Users/yonghyeonlee/Documents/CSharp/No1/bin/Debug/netcoreapp2.0/No1.pdb
+/Users/yonghyeonlee/Documents/CSharp/No1/obj/Debug/netcoreapp2.0/No1.csproj.CoreCompileInputs.cache
+/Users/yonghyeonlee/Documents/CSharp/No1/obj/Debug/netcoreapp2.0/No1.AssemblyInfoInputs.cache
+/Users/yonghyeonlee/Documents/CSharp/No1/obj/Debug/netcoreapp2.0/No1.AssemblyInfo.cs
+/Users/yonghyeonlee/Documents/CSharp/No1/obj/Debug/netcoreapp2.0/No1.dll
+/Users/yonghyeonlee/Documents/CSharp/No1/obj/Debug/netcoreapp2.0/No1.pdb
